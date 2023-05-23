@@ -1,0 +1,9 @@
+transformers
+torch
+nltk
+docx2txt
+pandas
+Pillow
+matplotlib
+openpyxl
+Flask
